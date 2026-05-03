@@ -1,5 +1,7 @@
 # Monkeyboard
 
+A short description of what your project is A couple sentences on why you made the project
+
 RP2040 SoC, USB-C connection port, 2 switches, 
 
 # Photos
@@ -8,10 +10,30 @@ RP2040 SoC, USB-C connection port, 2 switches,
 |---|---|---|
 |![Schematic](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-schematic.png?raw=true)|![PCB](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-pcb.png?raw=true)|![3D](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-3dviewer.png?raw=true)|
 
-<!-- # BOM
+# BOM
 
-|Item|Cost|Source|
-|---|---|---|
+|Item|Purpose|Quantity|Cost|Source|
+|---|---|---|---|---|
+|C1, C2|purpose|qty|cost|source|
+|C3, C18|purpose|qty|cost|source|
+|C4, C5, C19, C20, C22, C23, C24, C26|purpose|qty|cost|source|
+|C15, C16|purpose|qty|cost|source|
+|C17, C21, C25|purpose|qty|cost|source|
+|J1|purpose|qty|cost|source|
+|J2, J3|purpose|qty|cost|source|
+|J4|purpose|qty|cost|source|
+|R1, R2|purpose|qty|cost|source|
+|R3, R4|purpose|qty|cost|source|
+|R5, R7, R8|purpose|qty|cost|source|
+|R6|purpose|qty|cost|source|
+|SW1, SW2|purpose|qty|cost|source|
+|U1|purpose|qty|cost|source|
+|U2|purpose|qty|cost|source|
+|U3|purpose|qty|cost|source|
+|Y1|purpose|qty|cost|source|
+
+<!--
+reference
 |RP2040|$0.94|https://www.lcsc.com/product-detail/C2040.html?s_z=s_p_RP2040&spm=wm.ssy.bg.0.xh&lcsc_vid=E1ENUAdXFlVdBAVSQFBZUQJQRFEMVgIFEgVcAgBRQgQxVlNRQFNbUVBfR1haUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D|
 |Crystal oscillator|$0.07|https://www.lcsc.com/product-detail/C9002.html?s_z=s_q_CRYSTAL%252012MHZ&spm=wm.ssy.bg.0.xh&lcsc_vid=E1ENUAdXFlVdBAVSQFBZUQJQRFEMVgIFEgVcAgBRQgQxVlNRQFNbUVFTRlVXXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVFaV0oOAwwC|
 |MCP1700 LDO, 3.3V|$0.98|https://www.lcsc.com/product-detail/C39051.html?s_z=n_q_mcp1700%2520tt&spm=wm.ssy.bg.16.xh&lcsc_vid=E1ENUAdXFlVdBAVSQFBZUQJQRFEMVgIFEgVcAgBRQgQxVlNRQFNbUVJRR1hcXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D|
@@ -27,7 +49,8 @@ RP2040 SoC, USB-C connection port, 2 switches,
 
 Total: $10.81 ($7.76 w/o stencil)
 
+-->
 # Notes
 
-Have fun!
--->
+meow
+
