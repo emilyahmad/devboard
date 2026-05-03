@@ -2,7 +2,8 @@
 
 A short description of what your project is A couple sentences on why you made the project
 
-RP2040 SoC, USB-C connection port, 2 switches, crystal oscillator
+Powered by a RP2040 SoC microcontroller, USB-C connection port, 2 switches, crystal oscillator
+quad SPI flash memory IC
 
 # Photos
 
