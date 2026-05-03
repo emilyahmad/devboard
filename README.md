@@ -6,7 +6,7 @@ RP2040 SoC, USB-C connection port, 2 switches,
 
 |Schematic|PCB|3D Render|
 |---|---|---|
-|![Schematic]([[devboard/PCB_DESIGN/images/devboard-schematic.png](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-schematic.png?raw=true)]|![PCB]([[devboard/PCB_DESIGN/images/devboard-pcb.png](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-pcb.png?raw=true)]|![3D]([[devboard/PCB_DESIGN/images/devboard-schematic.png](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-3dviewer.png?raw=true)]|
+|![Schematic](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-schematic.png?raw=true)]|![PCB](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-pcb.png?raw=true)|![3D](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-3dviewer.png?raw=true)|
 
 <!-- # BOM
 
