@@ -1,21 +1,4 @@
 # Monkeyboard
-```
- _
-//\
-V  \
- \  \_
-  \,'.`-.
-   |\ `. `.       
-   ( \  `. `-.                        _,.-:\
-    \ \   `.  `-._             __..--' ,-';/
-     \ `.   `-.   `-..___..---'   _.--' ,'/
-      `. `.    `-._        __..--'    ,' /
-        `. `-_     ``--..''       _.-' ,'
-          `-_ `-.___        __,--'   ,'
-             `-.__  `----"""    __.-'
-                  `--..____..--'
-
-```
 
 A simple devboard with some cute curious george motifs - my first hardware project/PCB, built using @KaiPereira's starter guide on stasis. Like any good devboard, the monkeyboard contains an SoC, memory, power management and I/O interfaces: it receives power via its USB-C connector port, maintains a quad SPI flash memory IC for data storage, 2 multipurpose switches, a crystal oscillator for precise electrical frequencies, and the star of the show, the RP2040 as its MCU.
 
@@ -47,6 +30,23 @@ A simple devboard with some cute curious george motifs - my first hardware proje
 | Y1 | 12MHz crystal oscillator | 1 | $0.8382 | JLCPCB Extended (XJHCELNANF-12MHZ) |
 
 Total: $16.38
+```
+ _
+//\
+V  \
+ \  \_
+  \,'.`-.
+   |\ `. `.       
+   ( \  `. `-.                        _,.-:\
+    \ \   `.  `-._             __..--' ,-';/
+     \ `.   `-.   `-..___..---'   _.--' ,'/
+      `. `.    `-._        __..--'    ,' /
+        `. `-_     ``--..''       _.-' ,'
+          `-_ `-.___        __,--'   ,'
+             `-.__  `----"""    __.-'
+                  `--..____..--'
+
+```
 
 <!--
 reference
