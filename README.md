@@ -1,9 +1,8 @@
 # Monkeyboard
 
-A short description of what your project is A couple sentences on why you made the project
-
-Powered by a RP2040 SoC microcontroller, USB-C connection port, 2 switches, crystal oscillator
-quad SPI flash memory IC
+Powered by a RP2040 SoC microcontroller + other components: USB-C connection port, 2 switches, crystal oscillator
+quad SPI flash memory IC,
+first hardware and pcb project (devboard starter project guide), curious george themed (banana/yellow hat silkscreen art)
 
 # Photos
 
@@ -53,8 +52,7 @@ reference
 
 Total: $10.81 ($7.76 w/o stencil)
 
--->
 # Notes
 
 meow
-
+-
