@@ -1,16 +1,29 @@
 # Monkeyboard
+```
+ _
+//\
+V  \
+ \  \_
+  \,'.`-.
+   |\ `. `.       
+   ( \  `. `-.                        _,.-:\
+    \ \   `.  `-._             __..--' ,-';/
+     \ `.   `-.   `-..___..---'   _.--' ,'/
+      `. `.    `-._        __..--'    ,' /
+        `. `-_     ``--..''       _.-' ,'
+          `-_ `-.___        __,--'   ,'
+             `-.__  `----"""    __.-'
+                  `--..____..--'
 
-Powered by a RP2040 SoC microcontroller + other components: USB-C connection port, 2 switches, crystal oscillator
-quad SPI flash memory IC,
-first hardware and pcb project (devboard starter project guide), curious george themed (banana/yellow hat silkscreen art)
+```
+
+A simple devboard with some cute curious george motifs - my first hardware project/PCB, built using @KaiPereira's starter guide on stasis. Like any good devboard, the monkeyboard contains an SoC, memory, power management and I/O interfaces: it receives power via its USB-C connector port, maintains a quad SPI flash memory IC for data storage, 2 multipurpose switches, a crystal oscillator for precise electrical frequencies, and the star of the show, the RP2040 as its MCU.
 
 # Photos
 
 |Schematic|PCB|3D Render|
 |---|---|---|
 |![Schematic](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-schematic.png?raw=true)|![PCB](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-pcb.png?raw=true)|![3D](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-3dviewer.png?raw=true)|
-
-# BOM
 
 # BOM
 | Item | Purpose | Quantity | Cost | Source |
