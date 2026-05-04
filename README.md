@@ -4,7 +4,7 @@ A simple devboard with some cute curious george motifs - my first hardware proje
 
 # Photos
 
-|Schematic|PCB|3D Render|
+|Schematic|PCB|3D Viewer|
 |---|---|---|
 |![Schematic](https://github.com/emilyahmad/devboard/blob/main/images/devboard-schematic.png?raw=true)|![PCB](https://github.com/emilyahmad/devboard/blob/main/images/devboard-pcb.png?raw=true)|![3D](https://github.com/emilyahmad/devboard/blob/main/images/devboard-3dviewer.png?raw=true)|
 
