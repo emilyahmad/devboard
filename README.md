@@ -6,7 +6,7 @@ A simple devboard with some cute curious george motifs - my first hardware proje
 
 |Schematic|PCB|3D Render|
 |---|---|---|
-|![Schematic](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-schematic.png?raw=true)|![PCB](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-pcb.png?raw=true)|![3D](https://github.com/emilyahmad/devboard/blob/main/PCB_DESIGN/images/devboard-3dviewer.png?raw=true)|
+|![Schematic](https://github.com/emilyahmad/devboard/blob/main/images/devboard-schematic.png?raw=true)|![PCB](https://github.com/emilyahmad/devboard/blob/main/images/devboard-pcb.png?raw=true)|![3D](https://github.com/emilyahmad/devboard/blob/main/images/devboard-3dviewer.png?raw=true)|
 
 # BOM
 | Item | Purpose | Quantity | Cost | Source |
