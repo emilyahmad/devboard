@@ -30,6 +30,17 @@ A simple devboard with some cute curious george motifs - my first hardware proje
 | Y1 | 12MHz crystal oscillator | 1 | $0.8382 | JLCPCB Extended (XJHCELNANF-12MHZ) |
 
 Total: $16.38
+
+Purchasing plan:
+- Buy assembled PCB from JLCPCB
+with..
+c1/c2 capacitors
+
+*buy pin headers separately and solder myself:
+- need to buy pin headers (probably from lcsc
+- need to buy soldering kit (and something to magnify it/specific kit)
+[got recommended](https://www.amazon.com/dp/B082F1WKP9?ref=cm_sw_r_cso_cp_apin_dp_9XP0RMHK06AA6CE570BW&ref_=cm_sw_r_cso_cp_apin_dp_9XP0RMHK06AA6CE570BW&social_share=cm_sw_r_cso_cp_apin_dp_9XP0RMHK06AA6CE570BW&rsd=FW7IKzlJAXLdXoj5eY3XAtahFxLm%2F5IMUKv8Ogt23lCOzqCRiw27AcCxICPLbrdzXWiY6JZVFRYtL74CETBQj7sa4jU3t3ZWopdhyavFVouhI6OMEwbV&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQEOzipG65nwLH2FMdCBkbTPAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMrW%2FKlC7Jh%2Bc5XP6FAgEQgDsrD1FbfAl0akhj0d2hZCbOWsnSlrEUHUvZO68KVXCHFJgEtdhIIAph1i5rYAFuIfyg9CtF2v3jGW4Szw%3D%3D&th=1)
+
 ```
  _
 //\
@@ -47,6 +58,37 @@ V  \
                   `--..____..--'
 
 ```
+<!--
+# Side Notes
+## Purchasing components, check
+capacitance (uF)
+size (last 4 digits of footprint name)
+>= voltage on the net in your circuit (ex. 10V part & 3V rail = compatible)
+>dielectric material (X5R, Y5V, Z5U) maybe more pertinent for MLCC - multi-layer ceramic capacitor)
+tolerance (capacitors actually rarely hit their exact nominal rating)
+
+## JLCPCB Automatching
+compares footprint name & comment/nothing intelligent
+
+## How Capacitors Work
+Stores energy, charges & release quickly
+water tank: smooths interruptions to supply
+Eventually capacitor = battery voltage -> build up of electrons on one:
+Energy is stored & can be released as needed
+Because there are more electrons on one side (& electrons are negatively charged) = we get a negative & positive side = difference in potential (voltage difference)
+
+
+-->
+
+
+
+
+
+
+
+
+
+
 
 <!--
 reference
