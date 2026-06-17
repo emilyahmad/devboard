@@ -8,7 +8,7 @@ A simple devboard with some cute curious george motifs - my first hardware proje
 |---|---|---|
 |![Schematic](https://github.com/emilyahmad/devboard/blob/main/images/devboard-schematic.png?raw=true)|![PCB](https://github.com/emilyahmad/devboard/blob/main/images/devboard-pcb.png?raw=true)|![3D](https://github.com/emilyahmad/devboard/blob/main/images/devboard-3dviewer.png?raw=true)|
 
-# BOM
+# BOM - need to update (used Kai's repo as a reference!)
 | Item | Purpose | Quantity | Cost | Source |
 |---|---|---|---|---|
 | C1, C2 | 10uF decoupling capacitor | 2 | $0.0800 | JLCPCB Basic (CL10A106KP8NNNC) |
