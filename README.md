@@ -2,21 +2,19 @@
 
 A simple devboard with some cute curious george motifs - my first hardware project/PCB, built using @KaiPereira's starter guide on stasis. Like any good devboard, the monkeyboard contains an SoC, memory, power management and I/O interfaces: it receives power via its USB-C connector port, maintains a quad SPI flash memory IC for data storage, 2 multipurpose switches, a crystal oscillator for precise electrical frequencies, and the star of the show, the RP2040 as its MCU.
 
-# Photos
+### Assembled
 
-# Assembled
+| Front                              | Back                                 | Plugged in                               |
+| ---------------------------------- | ------------------------------------ | ---------------------------------------- |
+| ![back of pcb](images/pcbBack.JPG) | ![front of pcb](/images/pcbBack.JPG) | ![pcb plugged in](/images/pluggedIn.JPG) |
 
-| Front                | Back                | Plugged in            |
-| -------------------- | ------------------- | --------------------- |
-| images/pcbBack.JPG | images/pcbBack.JPG | images/pluggedIn.JPG |
-
-# Design
+### Design
 
 | Schematic                                                                                             | PCB                                                                                       | 3D Render                                                                                     |
 | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | ![Schematic](https://github.com/emilyahmad/devboard/blob/main/images/devboard-schematic.png?raw=true) | ![PCB](https://github.com/emilyahmad/devboard/blob/main/images/devboard-pcb.png?raw=true) | ![3D](https://github.com/emilyahmad/devboard/blob/main/images/devboard-3dviewer.png?raw=true) |
 
-# BOM
+### BOM
 
 | Item                                 | Purpose                      | Quantity | Cost    | Source                               |
 | ------------------------------------ | ---------------------------- | -------- | ------- | ------------------------------------ |
