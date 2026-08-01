@@ -6,7 +6,7 @@ A simple devboard with some cute curious george motifs - my first hardware proje
 
 | Front                              | Back                                 | Plugged in                               |
 | ---------------------------------- | ------------------------------------ | ---------------------------------------- |
-| ![back of pcb](images/pcbBack.JPG) | ![front of pcb](/images/pcbBack.JPG) | ![pcb plugged in](/images/pluggedIn.JPG) |
+| ![back of pcb](images/pcbBack.JPG) | ![front of pcb](/images/pcbFront.JPG) | ![pcb plugged in](/images/pluggedIn.JPG) |
 
 ### Design
 
