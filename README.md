@@ -1,4 +1,4 @@
-# Monkeyboard
+# Devboard
 
 A simple devboard with some cute curious george motifs - my first hardware project/PCB, built using @KaiPereira's starter guide on stasis. Like any good devboard, the monkeyboard contains an SoC, memory, power management and I/O interfaces: it receives power via its USB-C connector port, maintains a quad SPI flash memory IC for data storage, 2 multipurpose switches, a crystal oscillator for precise electrical frequencies, and the star of the show, the RP2040 as its MCU.
 
